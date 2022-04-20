@@ -23,6 +23,15 @@ const components = {
       },
     },
   },
+  Paragraph: {
+    variants: {
+      "paragraph-section" :{
+        fontSize: 15,
+        marginTop: 3,
+        marginBottom: 4,
+      },
+    },
+  },
   Link: {
     baseStyle: (props) => ({
       color: mode("#3d7aed", "#ff63c3")(props),
@@ -33,6 +42,7 @@ const components = {
 
 const fonts = {
   heading: "'M PLUS Rounded 1c'",
+  body: "sans serif",
 };
 
 const colors = {
