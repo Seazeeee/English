@@ -15,7 +15,7 @@ export const DarkModeSwitch = () => {
     <Flex>
       <Flex position="fixed" top="20rem" right="1rem" align="center">
         <Flex display={["none", "none", "flex", "flex"]}>
-        <NextLink href="https://github.com/Seazeeee/chakra-project" passHref>
+        <NextLink href="https://github.com/Seazeeee/English" passHref>
             <Button
               as="a"
               variant="ghost"
