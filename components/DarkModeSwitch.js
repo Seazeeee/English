@@ -13,7 +13,7 @@ export const DarkModeSwitch = () => {
   const { colorMode, toggleColorMode } = useColorMode();
   return (
     <Flex>
-      <Flex position="fixed" top="20rem" right="1rem" align="center">
+      <Flex position="absolute" top="20rem" right="1rem" align="center">
         <Flex display={["none", "none", "flex", "flex"]}>
         <NextLink href="https://github.com/Seazeeee/English" passHref>
             <Button

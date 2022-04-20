@@ -58,14 +58,14 @@ export default function Home() {
             <Container maxW="800px" maxH="150px">
               <Paragraph variant="paragraph-section">
                 Many people know that survivors of childhood abuse
-                often face challenges within their daily lives.
+                face challenges within their daily lives.
                 We see this portrayed on different media such as
                 instagram, twitter, maybe just an article you read for
                 class the other day. Either way we know they have had it rough.
-                How rough though, many people often don&apos;t know the extent of
+                How rough? People often don&apos;t know the extent of
                 what survivors have to go through.</Paragraph>
               <Paragraph variant="paragraph-section">
-                People who have faced childhood maltreatment often lack self satisfaction and life goals, these traits are often accompanied by certain illnesses that magnify them. This allows us to inspect the details of a survivor&apos;s life and find a way to help these people revitalize their life goals/satisfaction. Daniel Weindl a doctor that works at the University of Vienna discusses that, psychological consequences of childhood maltreatment can include PTSD, affective disorders, anxiety disorders, substance abuse, and personality disorders.(Weindle, 195) You can read more about them {" "}
+                People who have faced childhood maltreatment often lack self satisfaction and life goals, these traits are often accompanied by certain illnesses that magnify them. This allows us to inspect the details of a survivor&apos;s life and find a way to help these people revitalize their life goals/satisfaction. Daniel Weindl a doctor that works at the University of Vienna discusses that psychological consequences of childhood maltreatment can include PTSD, affective disorders, anxiety disorders, substance abuse, and personality disorders.(Weindle, 195) You can read more about them {" "}
                 <Link color='teal.500' href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1494926/">
                   Here</Link>.
                 These are multiple of the mental health issues that survivors face on a day to day basis. Mental health is a gateway for adults who have faced childhood maltreatment to sink into a lower place than already present leading them to a lower life satisfaction.
@@ -109,9 +109,9 @@ export default function Home() {
                 </Paragraph>
               <Paragraph variant="paragraph-section">
                 All this research has been done for us to be able to recognize and understand survivors of childhood maltreatment. 
-                Its for us as a people to come together and help the ones who were hurt. It is a bigger movement than just survivors of 
+                Its for we as a people to come together and help the ones who were hurt. It is a bigger movement than just survivors of 
                 childhood maltreatment. It is about us all being the same. We are all human and we should be willing to help one another without
-                any sort of incentive or satisfaction for us. These people are survivors of things we can only imagine and struggle in their adult lives
+                any sort of incentive or satisfaction. These people are survivors of things we can only imagine and struggle in their adult lives
                 to have any sort of goals or satisfaction.
                 <Box
                   borderRadius="lg"
