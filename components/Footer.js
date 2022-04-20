@@ -6,6 +6,7 @@ export const Footer = () => {
         <Box align="center" fontSize="sm">
             Conect with Me on Github.
             <IconButton
+            as="a"
             href="https://github.com/Seazeeee"
             aria-label="Github"
             icon={<FaGithub fontSize="1.25rem" />}
