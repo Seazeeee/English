@@ -43,7 +43,7 @@ export default function Home() {
                 overflow="hidden"
               >
                 <ProfileImage
-                  src="/Matt.JPG"
+                  src="/Matt1.png"
                   alt="Profile image"
                   borderRadius="full"
                   width="100%"
